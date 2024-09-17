@@ -9,3 +9,7 @@ Lab files for Azure AI Language modules
 
 
 #5. Sample Custome Named Entity Recogntion project [instructions](./Instructions/Exercises/05-extract-custom-entities.md) and [implementation](./Labfiles/05-custom-entity-recognition/Python/custom-entities/custom-entities.ipynb)
+
+
+#6. Sample Text Translation Service [instructions](./Instructions/Exercises/06-translate-text.md) and [implementation](./Labfiles/06b-translator-sdk/Python/translate-text/translate.ipynb)
+
