@@ -13,3 +13,5 @@ Lab files for Azure AI Language modules
 
 #6. Sample Text Translation Service [instructions](./Instructions/Exercises/06-translate-text.md) and [implementation](./Labfiles/06b-translator-sdk/Python/translate-text/translate.ipynb)
 
+#7. Sample Speech Recognition and Speech Synthesis [instructions](./Instructions/Exercises/07-speech.md) and [implementation](./Labfiles/07-speech/Python/speaking-clock/speaking-clock.ipynb)
+
