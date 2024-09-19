@@ -15,3 +15,4 @@ Lab files for Azure AI Language modules
 
 #7. Sample Speech Recognition and Speech Synthesis [instructions](./Instructions/Exercises/07-speech.md) and [implementation](./Labfiles/07-speech/Python/speaking-clock/speaking-clock.ipynb)
 
+#8. Sample Speech Translation from source to target language, with voice input and response. [Instructions](./Instructions/Exercises/08-translate-speech.md) and [implementation](./Labfiles/08-speech-translation/Python/translator/translator.ipynb)
